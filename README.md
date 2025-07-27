@@ -30,8 +30,10 @@ A simple FastAPI project that returns random developer quotes.
 
 ## Testing
 Run tests with:
+
     ```bash
     pytest
+    ```
 
 ## Future improvements:
 
